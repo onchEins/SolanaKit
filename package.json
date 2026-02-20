@@ -1,0 +1,1 @@
+{"name":"solana-kit","version":"1.0.0","description":"Comprehensive Solana blockchain toolkit","main":"index.js","scripts":{"test":"est","start":"node index.js"},"dependencies":{"@wolana/solana":"^2.12.0","@wolana/web3.js":"^2.16.0","ethers":"^5.0.5"}}
